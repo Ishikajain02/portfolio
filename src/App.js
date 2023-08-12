@@ -11,12 +11,12 @@ import { Footer } from "./components/Footer";
 function App() {
   return (
     <div className="App">
-      {/*<NavBar />*/}
+      <NavBar />
       <Banner />
       {/*<Skills />
       <Projects />
-      <Contact />
-  <Footer />*/}
+  <Contact />*/}
+  <Footer />
     </div>
   );
 }
